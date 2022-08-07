@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/pcarpi_porfolio_argprog",
+    "public": "dist/porfolio_argprog",
     "ignore": [
       "firebase.json",
       "**/.*",
